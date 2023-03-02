@@ -14,4 +14,5 @@ I like to:
 - ☁️ AWS Infrastructure (VPC, EKS, EC2, IAM, RDS/Aurora, S3, Lambda, SNS, SQS, ...)
 - 🐳 Kubernetes, Helm, Istio, Docker
 - 🏗️ CDK, Terraform, Salt, Ansible
+- 🔨 CI/CD (GitHub Actions, Buildkite)
 - ⌨️ Typescript, Golang, Shell Script, Python
