@@ -1,6 +1,6 @@
 ## About Me
-- 👨‍💻 Cloud Solutions Architect @ [Nitrogen](https://nitrogenwealth.com/)
-- 👨‍👩‍👦‍👦 Husband to an amazing wife, father of three amazing kids, and disciple of Jesus
+- 👨‍💻 Staff Platform Engineer @ [Nitrogen](https://nitrogenwealth.com/)
+- 👨‍👩‍👦‍👦 Husband to an amazing wife, father of ~three~ four amazing kids, and disciple of Jesus
 - 🗺️ Currently living in Northern California
 
 I like to:
